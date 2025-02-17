@@ -11,7 +11,7 @@ Proyecto de Análisis de Componentes Principales (PCA)
   - Base de datos: "Ingredient_data.xls"
   - Instrucciones: "PCA_ejercicios.docx"
   - Notebook del proyecto: "ejercicios_PCA.ipynb"
-  - 
+    
 Proyecto de Gaussian Mixture Models (GMM)
   Archivos:
   - Base de datos: "ClimaticData_GMM.xls"
