@@ -2,7 +2,7 @@ Este repositorio contiene:
 
 Proyecto de Density-based spatial clustering of applications with noise (DBSCAN)
 - Base de datos: "Odd_shape_data.xls"
-- Instrucciones: "Ejercicios_DBSCAN.docx"
+- Instrucciones: "DBSCAN_ejercicios.docx"
 - Notebook del proyecto: "ejercicios_DBSCAN.ipynb"
 
 Proyecto de Análisis de Componentes Principales (PCA) 
